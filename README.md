@@ -35,7 +35,7 @@ JANコード：    4526457400317
 
 * [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) ：转区运行
 
-补丁制作过程中也从很多文章中收到了启发，如：
+补丁制作过程中也从很多文章中受到了启发，如：
 
 * [就算是笨蛋笨蛋也能用的星空的记忆HD汉化版制作指南](https://tieba.baidu.com/p/7354039956#)
 * [FAVORITE引擎VM及脚本结构分析](https://bbs.sumisora.net/read.php?tid=11010281)
