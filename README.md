@@ -1,4 +1,5 @@
 # AngelWish_CHS
+
 FAVORITE处女作AngelWish GPT机翻汉化补丁
 
 # **机翻文本正在润色中……（随缘更新）**
@@ -7,16 +8,16 @@ FAVORITE处女作AngelWish GPT机翻汉化补丁
 
 #### 游戏信息
 
-ブランド：    FAVORITE 
-定価：    ￥8,800 (税込￥9,504)
-発売日：    2004/05/28
-メディア：    CD-ROM 3枚組
-ジャンル：    どきどき召使いADV
-JANコード：    4526457400317
-原画：    司田カズヒロ
-シナリオ：    水間ホシひと、前山信頼
-商品同梱特典：    マキシCD同梱
-サブジャンル ：    アドベンチャー 
+* ブランド：    FAVORITE
+* 定価：    ￥8,800 (税込￥9,504)
+* 発売日：    2004/05/28
+* メディア：    CD-ROM 3枚組
+* ジャンル：    どきどき召使いADV
+* JANコード：    4526457400317
+* 原画：    司田カズヒロ
+* シナリオ：    水間ホシひと、前山信頼
+* 商品同梱特典：    マキシCD同梱
+* サブジャンル ：    アドベンチャー
 
 介绍/本体购买链接：[http://www.getchu.com/soft.phtml?id=29162](http://www.getchu.com/soft.phtml?id=29162)
 
@@ -30,16 +31,13 @@ JANコード：    4526457400317
 
 * [fvp](https://github.com/Tabing010102/fvp)  : 对hcb脚本进行了拆封包
 * [GalTransl](https://github.com/xd2333/GalTransl) ：自动化翻译工具
-
 * [UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)：对汉化后的文本进行修正
-
 * [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) ：转区运行
 
 补丁制作过程中也从很多文章中受到了启发，如：
 
 * [就算是笨蛋笨蛋也能用的星空的记忆HD汉化版制作指南](https://tieba.baidu.com/p/7354039956#)
 * [FAVORITE引擎VM及脚本结构分析](https://bbs.sumisora.net/read.php?tid=11010281)
-
 * [[Gal汉化入门教程]#3.1 编码&amp;范围校验修改演示](https://www.bilibili.com/read/cv12543346/)
 
 还要感谢为我提供了帮助的网友\同学：kf论坛的injustice1、乾坤坎离、snowrain；[星外之神](https://github.com/wszqkzqk)
