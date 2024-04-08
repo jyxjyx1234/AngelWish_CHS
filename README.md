@@ -8,18 +8,18 @@ FAVORITE处女作AngelWish GPT机翻汉化补丁
 
 #### 游戏信息
 
-ブランド：    FAVORITE （このブランドの作品一覧）
-定価：    ￥8,800 (税込￥9,504)
-発売日：    2004/05/28
-メディア：    CD-ROM 3枚組
-ジャンル：    どきどき召使いADV
-JANコード：    4526457400317
-原画：    司田カズヒロ
-シナリオ：    水間ホシひと、前山信頼
-商品同梱特典：    マキシCD同梱
-サブジャンル ：    アドベンチャー [一覧]
+* ブランド：    FAVORITE
+* 定価：    ￥8,800 (税込￥9,504)
+* 発売日：    2004/05/28
+* メディア：    CD-ROM 3枚組
+* ジャンル：    どきどき召使いADV
+* JANコード：    4526457400317
+* 原画：    司田カズヒロ
+* シナリオ：    水間ホシひと、前山信頼
+* 商品同梱特典：    マキシCD同梱
+* サブジャンル ：    アドベンチャー
 
-介绍：[http://www.getchu.com/soft.phtml?id=29162](http://www.getchu.com/soft.phtml?id=29162)
+本体购买/介绍：[http://www.getchu.com/soft.phtml?id=29162](http://www.getchu.com/soft.phtml?id=29162)
 
 #### 使用说明
 
@@ -34,7 +34,6 @@ JANコード：    4526457400317
 ##### 配置调节
 
 [ufi_config.json](https://github.com/jyxjyx1234/AngelWish_CHS/blob/main/AngelWish_CHS/uif_config.json)中可以调节字体等配置。具体参见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
-
 
 #### 致谢
 
@@ -54,7 +53,6 @@ JANコード：    4526457400317
 还要感谢为我提供了帮助的网友\同学：kf论坛的injustice1、乾坤坎离、snowrain；[星外之神](https://github.com/wszqkzqk)。
 
 特别感谢[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)的作者[AtomCrafty](https://github.com/AtomCrafty)，不厌其烦的帮我解决了在使用[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)时遇到的问题。
-
 
 #### 杂谈
 
