@@ -8,22 +8,33 @@ FAVORITE处女作AngelWish GPT机翻汉化补丁
 
 #### 游戏信息
 
-* ブランド：    FAVORITE
-* 定価：    ￥8,800 (税込￥9,504)
-* 発売日：    2004/05/28
-* メディア：    CD-ROM 3枚組
-* ジャンル：    どきどき召使いADV
-* JANコード：    4526457400317
-* 原画：    司田カズヒロ
-* シナリオ：    水間ホシひと、前山信頼
-* 商品同梱特典：    マキシCD同梱
-* サブジャンル ：    アドベンチャー
+ブランド：    FAVORITE （このブランドの作品一覧）
+定価：    ￥8,800 (税込￥9,504)
+発売日：    2004/05/28
+メディア：    CD-ROM 3枚組
+ジャンル：    どきどき召使いADV
+JANコード：    4526457400317
+原画：    司田カズヒロ
+シナリオ：    水間ホシひと、前山信頼
+商品同梱特典：    マキシCD同梱
+サブジャンル ：    アドベンチャー [一覧]
 
-介绍/本体购买链接：[http://www.getchu.com/soft.phtml?id=29162](http://www.getchu.com/soft.phtml?id=29162)
+介绍：[http://www.getchu.com/soft.phtml?id=29162](http://www.getchu.com/soft.phtml?id=29162)
 
 #### 使用说明
 
-安装游戏本体后，将release中的所有内容复制到安装目录中，双击AngelWish_chs.exe即可运行。
+##### 懒人版
+
+安装游戏本体后，将release中的所有内容复制到安装目录中，双击AngelWish_chs.exe即可运行。自带了LE所以无需再转区运行。
+
+##### 重新封包
+
+文本在根目录下的json文件中。当修改文本后，点击一键封包脚本，即可在AngelWish_CHS文件夹中找到更新后的封包文件。
+
+##### 配置调节
+
+[ufi_config.json](https://github.com/jyxjyx1234/AngelWish_CHS/blob/main/AngelWish_CHS/uif_config.json)中可以调节字体等配置。具体参见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
+
 
 #### 致谢
 
@@ -40,15 +51,16 @@ FAVORITE处女作AngelWish GPT机翻汉化补丁
 * [FAVORITE引擎VM及脚本结构分析](https://bbs.sumisora.net/read.php?tid=11010281)
 * [[Gal汉化入门教程]#3.1 编码&amp;范围校验修改演示](https://www.bilibili.com/read/cv12543346/)
 
-还要感谢为我提供了帮助的网友\同学：kf论坛的injustice1、乾坤坎离、snowrain；[星外之神](https://github.com/wszqkzqk)
+还要感谢为我提供了帮助的网友\同学：kf论坛的injustice1、乾坤坎离、snowrain；[星外之神](https://github.com/wszqkzqk)。
+
+特别感谢[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)的作者[AtomCrafty](https://github.com/AtomCrafty)，不厌其烦的帮我解决了在使用[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)时遇到的问题。
+
 
 #### 杂谈
 
 搜F社的老物时看见了这部作品，看见白毛萝莉就想推了。最近玩了好几部gpt翻译的作品，感觉效果还挺好，于是尝试了使用gpt进行了汉化。开始使用的是gpt4，效果非常好，但是汉化了大约6000行后发现花销过大，于是后面改用了3.5。由于几乎完全没有代码基础（只会一点点python），从解包、文本提取，特别是最后的封包和处理编码问题简直步步碰壁，好在有热心网友的帮助以及大佬的教程，折腾了一个清明节假期终于搞出来了。
 
 汉化文本先用ctrl+F修正了一些专有名词的问题，接着准备边推边看心情润色。限制级部分就懒得润色了。
-
-现在顶部菜单栏还有些乱码，懒得再折腾了（
 
 #### 吐槽
 

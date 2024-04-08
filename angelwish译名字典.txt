@@ -1,0 +1,40 @@
+千歳水希    千岁水希    name, girl
+千歳ゆきな  千岁雪娜    name, girl
+ゆきな  雪娜    name, girl 
+千歳    千岁    name, girl
+水希    水希    name, girl
+幸田ユイ    幸田唯  name, girl
+幸田    幸田    name, girl
+ユイ    唯  name, girl
+栗平六夏    栗平六夏    name, girl
+栗平    栗平    name, girl
+六夏    六夏    name, girl
+喜多見早知  喜多见早知  name, girl
+喜多見  喜多见    name, girl
+早知    早知    name, girl
+城戸崎七海  城戸崎七海  name, girl
+城戸崎  城戸崎  name, girl
+七海    七海    name, girl
+鈴音＝メルヴェイユ  铃音·梅尔维尤   name, girl
+鈴音    铃音    name, girl
+メルヴェイユ    梅尔维尤    name, girl
+厚木圣哉    厚木圣哉    player's name, boy
+厚木    厚木    player's name, boy
+圣哉    圣哉    player's name, boy
+香月绫  香月绫  name, lady, teacher
+香月    香月    name, lady, teacher
+绫  绫  name, lady, teacher
+天門坂  天门坡  a small town 
+私立聖峰学院    私立圣峰学院    a private school 
+ステラ公国  特斯拉公国  a country
+メイド服    女仆装
+鶴馬清貴    鹤马清贵    boy, name, 厚木圣哉's friend
+鶴馬    鹤马    boy, name, 厚木圣哉's friend
+清貴    清贵    boy, name, 厚木圣哉's friend
+勝城さん    胜城    name, girl
+カッパ  河童
+アンジュ・ラルム    安洁・拉姆
+ねこきち    猫吉    咖啡馆的名字
+さんぺー    さんぺー    玩偶
+マトック古賀    锄头古贺
+カパマ  カパマ  一款游戏
