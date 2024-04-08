@@ -13,6 +13,10 @@ def hanzitihuan(text):#按照字典替换不支持的汉字
         replaced_string += hanzidict.get(char, char)
     return replaced_string
 
+def fuhaotihuan(text):#替换掉译文中一些不支持的常见特殊符号形式,无需后续再替换回去
+    return text.replace('—','ー').replace('～','〜').replace('“','「').replace('”','」')
+
+
 transpath='AngelWish预翻译文件_processed.json'
 with open(transpath,'r',encoding='utf-8') as f:
     replacement_dict=json.load(f)
@@ -32,7 +36,7 @@ with codecs.open('.\原文件\hime.txt', 'r', encoding='shiftjis') as input_file
                             if not re.match(r'[A-Za-z]', content1[0]):
                                 line = line.replace(content, replacement_dict[content1]["userTrans"])
                                 sline= replacement_dict[content1]["userTrans"]
-                    himestrings.write(hanzitihuan(sline)+'\n')
-                hime.write(hanzitihuan(line))
+                    himestrings.write(fuhaotihuan(hanzitihuan(sline))+'\n')
+                hime.write(fuhaotihuan(hanzitihuan(line)))
 
 

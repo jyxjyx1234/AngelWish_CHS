@@ -35,6 +35,12 @@ FAVORITE处女作AngelWish GPT机翻汉化补丁
 
 [ufi_config.json](https://github.com/jyxjyx1234/AngelWish_CHS/blob/main/AngelWish_CHS/uif_config.json)中可以调节字体等配置。具体参见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
 
+#### 已知问题
+
+重新修改文本、重新封包并替换文件后读取之前的存档会闪退（好在本作skip特别快）。
+
+标题栏有乱码，懒得再折腾了。设定里的乱码是音量设置，最后一个乱码是开启快进。
+
 #### 致谢
 
 本补丁使用了以下开源项目：
