@@ -13,8 +13,8 @@ if a=='1':
     daixiuzheng={}
 
     for text in f:
-        if 'カッパ' in text:
-            if '河童' not in f[text]['userTrans']:
+        if 'カッパ' in text:#带修正的词
+            if '河童' not in f[text]['userTrans']:#提取出译文中不包含指定翻译的
                 if '黄瓜卷' not in f[text]['userTrans']:
                     if 'カッパーマトック' not in f[text]['userTrans']:
                         daixiuzheng[text]=f[text]['userTrans']
