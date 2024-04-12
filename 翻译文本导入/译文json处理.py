@@ -17,7 +17,7 @@ for i in yuanwen:
     content=i['message']
     if teshuzifutihuan(content) in replacement_dict:
         if len(content)>0:
-            if not re.match(r'[A-Za-z]', content[0]):
+            if not re.match(r'[A-Za-z]', content[0]):#排除索引资源文件的行
                 content=replacement_dict[teshuzifutihuan(content)]["userTrans"]
     out.append({'message':content})
 
